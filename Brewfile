@@ -9,6 +9,8 @@ brew "exa"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Mac App Store command-line interface
+brew "mas"
 # Platform built on V8 to build network applications
 brew "node"
 # Application launcher and productivity software
@@ -29,3 +31,5 @@ cask "visual-studio-code"
 cask "webstorm"
 # Free messaging and calling application
 cask "wechat"
+mas "Snappy", id: 512617038
+mas "网易云音乐", id: 944848654
