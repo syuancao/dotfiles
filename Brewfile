@@ -35,4 +35,4 @@ cask "webstorm"
 # Free messaging and calling application
 cask "wechat"
 mas "Snappy", id: 512617038
-mas "网易云音乐", id: 944848654
+ 
