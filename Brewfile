@@ -12,6 +12,8 @@ brew "git"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
 # Platform built on V8 to build network applications
 brew "node"
 # Bash scripts that integrate bat with various command-line tools
@@ -20,6 +22,8 @@ brew "eth-p/software/bat-extras"
 cask "alfred"
 # Cloud storage service
 cask "baidunetdisk"
+# Rule-based custom proxy with GUI based on clash
+cask "clashx"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Git client focusing on productivity
@@ -35,4 +39,3 @@ cask "webstorm"
 # Free messaging and calling application
 cask "wechat"
 mas "Snappy", id: 512617038
- 
