@@ -2,13 +2,15 @@ echo 'Hello from .zshrc'
 
 
 # Set Variables
+# Syntax highlighting for man pages using bat
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 export HOMEBREW_CASK_OPTS="--no-quarantine"
+export NULLCMD=bat
 
 # Change ZSH Options
 
 
 # Create Aliases
-# alias ls='ls -lAFh'
 alias exa='exa -laFh --git'
 alias ls='exa -laFh --git'
 alias bbd='brew bundle dump --force --describe' 
