@@ -18,6 +18,8 @@ brew "mas"
 brew "nano"
 # Platform built on V8 to build network applications
 brew "node"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
