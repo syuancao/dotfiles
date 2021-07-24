@@ -10,16 +10,24 @@ brew "exa"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Pager program similar to more
+brew "less"
 # Mac App Store command-line interface
 brew "mas"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
 # Platform built on V8 to build network applications
 brew "node"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
 # Cloud storage service
 cask "baidunetdisk"
+# Rule-based custom proxy with GUI based on clash
+cask "clashx"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Git client focusing on productivity
@@ -35,4 +43,3 @@ cask "webstorm"
 # Free messaging and calling application
 cask "wechat"
 mas "Snappy", id: 512617038
-mas "网易云音乐", id: 944848654
