@@ -18,6 +18,8 @@ brew "mas"
 brew "n"
 # Free (GNU) replacement for the Pico text editor
 brew "nano"
+# JavaScript package manager
+brew "yarn"
 # UNIX shell (command interpreter)
 brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
@@ -38,6 +40,8 @@ cask "google-chrome"
 cask "motrix"
 # Open-source code editor
 cask "visual-studio-code"
+# Virtual machine client
+cask "vmware-horizon-client"
 # JavaScript IDE
 cask "webstorm"
 # Free messaging and calling application
